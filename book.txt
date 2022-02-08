@@ -1,0 +1,4 @@
+3个vue.config.js都能运行npm run serve
+npm run build打包
+
+报错 Error: No PostCSS Config found in.. ,解决：在项目根目录新建postcss.config.js文件
